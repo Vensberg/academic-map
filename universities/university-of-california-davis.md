@@ -1,19 +1,21 @@
 # University of California Davis
 
-- *OSPO*: Yes, in the Library and the Computer Science Department.
-- *Personnel*: Peter Brantley, Vladimir Filkov, Vessela Ensberg, Pamela Reynolds, Carl Stahmer
-- *Link*: 
+- *OSPO*: We are part of a UC OSPO network that consists of six University of California campuses: Berkeley, Davis, LA, San Diego, Santa Barbara and Santa Cruz. The Principal Investigators at UC Davis are from the UC Davis Library and the Department of Computer Science. 
+- *Personnel*: Peter Brantley, Vladimir Filkov, Vessela Ensberg, Pamela Reynolds, Carl Stahmer, Justin Merz
+- *Link*: [UC Davis and the UC OSPO Network](https://library.ucdavis.edu/news/uc-davis-receives-grant-to-build-network-supporting-open-source-software-in-collaboration-with-five-other-ucs/)
 - *Member of*: [CURIOSS](https://curioss.org/)
 
 ## General Description
+The network focuses on three major thematic areas: software project discovery, sustainability and training. The 
 
 
 
 ## Core Objectives
+1. Identify creators and contributors to open source projects in the campus network
+2. Create communities of practice as a step towards sustainability of oss projects
+3. Provide tools for project health self-assessment
+4. Define a containerization service
 
-Sustainability of open source projects, particularly those originating from the UC system, will be a particular focus of the UC Davis OSPO’s efforts.
-
-Other key objectives include understanding the UC OSS landscape and training
 
 ## Primary Contacts
 
